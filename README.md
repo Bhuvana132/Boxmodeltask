@@ -1,13 +1,12 @@
 # Boxmodeltask
-<!DOCTYPE html>
 <html lang="en">
-<head>
+    <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>boxtask</title>
-</head>
-<body>
-    <style>
+        </head>
+        <body>
+            <style>
         .number-container {
           display: flex;
         }
@@ -22,9 +21,6 @@
           margin: 5px;
         }
         </style>
-        </head>
-        <body>
-        
         <div class="number-container">
           <div class="number-box">1</div>
           <div class="number-box">2</div>
